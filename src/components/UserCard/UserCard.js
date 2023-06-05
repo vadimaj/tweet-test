@@ -54,7 +54,7 @@ const UserCard = (props) => {
         <img
           src={cardImage}
           className={css["card-bgImage"]}
-          alt="Background image"
+          alt="Card background"
         />
 
         <div className={css["user-image-wrapper"]}>

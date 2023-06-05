@@ -37,7 +37,6 @@ const Users = () => {
 
   const handlePageIncrement = () => {
     setPage((prevState) => prevState + 1);
-    console.log(page);
   };
 
   return (
