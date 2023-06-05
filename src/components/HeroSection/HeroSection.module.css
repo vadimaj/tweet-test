@@ -1,0 +1,19 @@
+.overlay {
+  height: 200px;
+  background-image: url(../../images/bg03.jpg);
+
+  background-size: cover;
+}
+.hero {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.hero-title {
+  text-align: center;
+  font-family: "Pacifico";
+  font-size: 70px;
+  color: rgb(26, 112, 192);
+  line-height: 1;
+}

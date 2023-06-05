@@ -1,0 +1,27 @@
+.navigation-container {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.navlink {
+  font-family: "Open Sans";
+  text-decoration: none;
+  font-style: normal;
+  font-size: 18px;
+  color: rgb(255, 255, 255);
+  font-weight: normal;
+
+  transition: transform 250ms ease-out;
+}
+.navlink:hover {
+  transform: scale(1.02);
+}
+
+.logo {
+  font-family: "Pacifico";
+  font-size: 24px;
+  font-weight: 400;
+  color: #f0d655;
+  text-decoration: none;
+}

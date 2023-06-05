@@ -1,0 +1,31 @@
+.content-title {
+  padding-top: 30px;
+  text-align: center;
+  font-size: 46px;
+  margin-bottom: 20px;
+}
+.content-text {
+  text-align: center;
+  font-size: 20px;
+  padding: 0;
+  margin: 0;
+}
+.content-btn {
+  display: block;
+  cursor: pointer;
+  margin: 100px auto;
+  text-align: center;
+  text-decoration: none;
+  background: #05017a;
+  color: aliceblue;
+  width: 200px;
+  height: 50px;
+  border-radius: 8px;
+  font-size: 20px;
+  line-height: 48px;
+  transition: all 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+.content-btn:hover,
+.content-btn:focus {
+  background: #4b45ff;
+}
