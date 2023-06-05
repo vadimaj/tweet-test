@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/tweet-test/static/css/main.6d73e5be.css",
+    "main.js": "/tweet-test/static/js/main.66f6da96.js",
+    "static/media/bg03.jpg": "/tweet-test/static/media/bg03.31accb831b25d6166b54.jpg",
+    "static/media/pacifico-v22-latin-regular.woff2": "/tweet-test/static/media/pacifico-v22-latin-regular.f36bb0347eecd87d78af.woff2",
+    "static/media/card-image.png": "/tweet-test/static/media/card-image.032662a2a907475127d7.png",
+    "static/media/montserrat-v25-latin-500.woff2": "/tweet-test/static/media/montserrat-v25-latin-500.38a674fae449557fef97.woff2",
+    "static/media/montserrat-v25-latin-regular.woff2": "/tweet-test/static/media/montserrat-v25-latin-regular.acb6629fe45c43ad5d8b.woff2",
+    "static/media/montserrat-v25-latin-600.woff2": "/tweet-test/static/media/montserrat-v25-latin-600.5d6df38dd70f631c488b.woff2",
+    "static/media/logo.svg": "/tweet-test/static/media/logo.e917114d7945c04c85a8946a331d28b6.svg",
+    "index.html": "/tweet-test/index.html",
+    "main.6d73e5be.css.map": "/tweet-test/static/css/main.6d73e5be.css.map",
+    "main.66f6da96.js.map": "/tweet-test/static/js/main.66f6da96.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d73e5be.css",
+    "static/js/main.66f6da96.js"
+  ]
+}
